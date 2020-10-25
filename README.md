@@ -23,5 +23,4 @@
 
 ```
 react-native run-android
-
 ```
