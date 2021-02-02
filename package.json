@@ -16,7 +16,7 @@
     "@react-navigation/drawer": "^5.4.1",
     "@react-navigation/native": "^5.4.0",
     "@react-navigation/stack": "^5.3.7",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "ionicons": "^5.0.1",
     "jwt-decode": "^2.2.0",
     "moment": "^2.25.3",
