@@ -19,8 +19,6 @@
 
 ## 실행 
 
-### 스마트폰에서 실행 
-
 ```
 react-native run-android
 ```
