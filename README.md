@@ -13,7 +13,7 @@
 ```
 
 ## TEAM (Developer) 👩🏻‍💻👨🏻‍💻
-- 김수정 - [suzumsz](https://github.com/suzumsz) (App) 
+- 김수정 (App) - [suzumsz](https://github.com/suzumsz) 
 - 문지상 (App)
 - 김현우 (Web)
 
