@@ -27,8 +27,8 @@
 ## Workflow
 
 ## 개발환경
-<img src="https://img.shields.io/badge/Flutter-red?logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/Dart-black?logo=Dart&logoColor=white"> <img src="https://img.shields.io/badge/Authentication-purple?logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/Cloud Firestore-lemon?logo=Firebase&logoColor=white">   
-<img src="https://img.shields.io/badge/Android Studio-yellow?logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-4285F4?logo=Visual Studio Code&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/React Native-61DAFB?logo=React&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Cloud Firestore-lemon?logo=Firebase&logoColor=white">   
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=Android-Studio&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual-Studio-Code&logoColor=white">
 
 ## 참고
 ✔ 결과물 apk파일은 [다운로드](/etc/DOTORI.zip)  
