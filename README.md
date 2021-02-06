@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Android Studio-yellow?logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-4285F4?logo=Visual Studio Code&logoColor=white">
 
 ## 참고
-✔ 결과물 apk파일은 [다운로드](/etc/DOTORI.zip)
+✔ 결과물 apk파일은 [다운로드](/etc/DOTORI.zip)  
 ✔ [도토리 발표 ppt 파일](/etc/근태관리시스템_ppt.pptx)   
 
 <details>
