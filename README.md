@@ -24,12 +24,11 @@
 |문지상| Server와 통신하기 위한 API Controller 생성, API 구현(로그인, 로그아웃, 근태목록, 사용자정보 및 수정, 비밀번호 수정), Background에서 Beacon과 통신하여 근태 처리하는 기능 구현 | ⭕ |
 |김현우| 로그인, 로그아웃, 로그인 로그, 사용자 목록, 사용자 추가, 개인정보(수정, 비밀번호 변경), 사용자 정보(수정, 삭제), 공지사항, 근무 스케줄 관리, 근로시간 정보, 근태관리 등 대부분의 웹 기능 | ⭕ |
 
-## Workflow
+## Workflow - App
 
-- App
 <img width="100%" src="./etc/앱구성도.jpg">
 
-- Web
+## Workflow - Web
 <img width="100%" src="./etc/웹구성도.jpg">
 
 ## 개발환경
