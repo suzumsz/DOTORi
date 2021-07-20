@@ -24,7 +24,7 @@
     "promise-hook": "^0.1.4",
     "react": "^16.11.0",
     "react-live-clock": "^4.0.5",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-native-android-keyboard-adjust": "^1.2.0",
     "react-native-background-job": "^2.3.1",
     "react-native-cli": "^2.0.1",
