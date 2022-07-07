@@ -19,7 +19,7 @@
     "axios": "^0.19.2",
     "ionicons": "^5.0.1",
     "jwt-decode": "^2.2.0",
-    "moment": "^2.25.3",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.31",
     "promise-hook": "^0.1.4",
     "react": "^16.11.0",
