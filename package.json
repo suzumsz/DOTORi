@@ -20,7 +20,7 @@
     "ionicons": "^5.0.1",
     "jwt-decode": "^2.2.0",
     "moment": "^2.25.3",
-    "moment-timezone": "^0.5.31",
+    "moment-timezone": "^0.5.35",
     "promise-hook": "^0.1.4",
     "react": "^16.11.0",
     "react-live-clock": "^4.0.5",
